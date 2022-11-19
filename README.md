@@ -1,3 +1,6 @@
+# Deployed website
+https://flashcards-938f6.netlify.app
+
 # To Run
 
 Run `npm start` in the project root and the app will be available on port 3000.
